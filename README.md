@@ -6,6 +6,7 @@ tools gabut doang
 tutor install:
 
 
+------------------------------------------
 
 
 pkg update && pkg upgrade
