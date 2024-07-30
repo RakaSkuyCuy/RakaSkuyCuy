@@ -30,4 +30,11 @@ cd RakaSkuyCuy
 
 python setup.py install 
 
-kensploitspam
+_----------------------------_
+
+
+
+setelah selesai install langsung command gini di terminal:
+
+
+kensploitspam 
