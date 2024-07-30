@@ -21,8 +21,8 @@ pip install pyfiglet
 
 git clone https://github.com/RakaSkuyCuy/RakaSkuyCuy.git
 
+cd RakaSkuyCuy
 
-<!---
-RakaSkuyCuy/RakaSkuyCuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+python setup.py install 
+
+kensploitspam
