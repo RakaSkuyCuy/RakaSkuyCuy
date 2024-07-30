@@ -4,13 +4,23 @@ tools gabut doang
 tutor install:
 
 pkg update && pkg upgrade
+
 apt update && apt upgrade
+
 apt install python
+
 apt install python-pip 
+
 apt install git
+
 pip install colorama
+
 pip install setuptools 
+
 pip install pyfiglet
+
+git clone https://github.com/RakaSkuyCuy/RakaSkuyCuy.git
+
 
 <!---
 RakaSkuyCuy/RakaSkuyCuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
