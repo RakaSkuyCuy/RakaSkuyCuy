@@ -38,3 +38,19 @@ setelah selesai install langsung command gini di terminal:
 
 
 kensploitspam 
+
+
+
+
+_----------------------------_
+
+
+note:
+gak usah CD/masuk ke direktori filenya untuk jalanin script, tinggal ketik:
+
+kensploitspam 
+
+
+--------------------
+
+tar otomatis berjalan scriptnya misal baru masuk termux pakai session baru nah langsung ketik aja yang diatas
